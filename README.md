@@ -9,3 +9,22 @@ Please keep all the contents of the repository and the downloaded dataset in the
 Cheers!
 
 ### Code Description
+Before executing the python notebook be sure to install keras. For installing first check if you have python installed.
+Head over to `python.org` to install python. When installed run command prompt. Execute the command `pip install keras`.
+This code will successfully install keras in your system.
+<br>
+<br>
+The python notebook is commented in each block to make it easier to understand.
+<p>
+The code Follows the following approach::
+<br>
+  1) Initialising the CNN
+  2) Step 1 - Convolution <br>
+  3) Step 2 - Pooling <br>
+  4) Step 3 - Flattening <br>
+  5) Step 4 - Full connection <br>
+  6) Compiling the CNN <br>
+  7) Training the model <br>
+  8) predictions for dog image using train model <br>
+  9) predictions for cat image using train model <br>
+</p>
