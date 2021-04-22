@@ -9,9 +9,9 @@ Please keep all the contents of the repository and the downloaded dataset in the
 Cheers!
 
 ### Code Description
-Before executing the python notebook be sure to install keras. For installing first check if you have python installed.
-Head over to `python.org` to install python. When installed run command prompt. Execute the command `pip install keras`.
-This code will successfully install keras in your system.
+Before executing the python notebook be sure to install keras and numpy. For installing first check if you have python installed.
+Head over to `python.org` to install python. When installed run command prompt. Execute the command `pip install keras` and then `pip install numpy`.
+These codes will successfully install keras and numpy modules in your system.
 <br>
 <br>
 The python notebook is commented in each block to make it easier to understand.
