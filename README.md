@@ -3,7 +3,7 @@ It is a python code to build a CNN model and to train the model to differentiate
 <br>
 Feel free to use two test images of a puppy and a cat, `puppy21.jpg` and `cat21.jpg` respectively.
 <br>
-The Drive link for the dataset I used :: 
+The Drive link for the dataset I used :: https://drive.google.com/file/d/1Loswupf1eCdHiitqshCwMjqGhRAitk5M/view?usp=sharing
 <br>
 Please keep all the contents of the repository and the downloaded dataset in the same folder for proper functioning.
 Cheers!
